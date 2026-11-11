@@ -1,0 +1,969 @@
+&File	&Файл
+New &repository…	Создать &репозиторий…
+Add &local repository…	Добавить &локальный репозиторий…
+Clo&ne repository…	&Клонировать репозиторий…
+&Options…	&Настройки…
+E&xit	В&ыход
+&Edit	&Правка
+&Undo	&Отменить
+&Redo	П&овторить
+Cu&t	В&ырезать
+&Copy	&Копировать
+&Paste	&Вставить
+Select &all	Выделить &всё
+&Find	&Найти
+&View	&Вид
+&Changes	&Изменения
+&History	&История
+Repository &list	Список &репозиториев
+&Branches list	Список &веток
+Wor&ktrees list	Список рабочих &деревьев
+Go to &Summary	Перейти к &сводке
+Toggle &full screen	&Полноэкранный режим
+Reset zoom	Сбросить масштаб
+Zoom in	Увеличить масштаб
+Zoom out	Уменьшить масштаб
+Expand active resizable	Расширить активную область
+Contract active resizable	Сузить активную область
+&Reload	&Перезагрузить
+&Toggle developer tools	&Инструменты разработчика
+&Repository	&Репозиторий
+Pu&ll	&Получить изменения (Pull)
+&Fetch	&Проверить обновления (Fetch)
+&View on GitHub	&Открыть на GitHub
+Show in E&xplorer	Показать в &Проводнике
+Open in GitHub &Copilot	Открыть в GitHub &Copilot
+&Open in 	&Открыть в 
+Open &with…	&Открыть с помощью…
+&Stash all changes	&Спрятать все изменения (stash)
+&Stash all changes…	&Спрятать все изменения (stash)…
+H&ide stashed changes	&Скрыть отложенные изменения
+Discard all changes…	Отменить все изменения…
+Repository &settings…	&Настройки репозитория…
+&Branch	&Ветка
+New &branch…	Создать &ветку…
+New work&tree…	Создать рабочее &дерево…
+&Compare to branch	&Сравнить с веткой
+&Merge into current branch…	&Слить с текущей веткой…
+R&ebase current branch…	&Перебазировать текущую ветку…
+Squas&h and merge into current branch…	&Объединить коммиты и слить в текущую ветку…
+Compare on &GitHub	Сравнить на &GitHub
+Force P&ush	Принудительно &отправить (force push)
+Force P&ush…	Принудительно &отправить (force push)…
+&Delete…	&Удалить…
+&Rename…	&Переименовать…
+&Help	&Справка
+&About GitHub Desktop	&О GitHub Desktop
+&Contact GitHub support…	&Связаться с поддержкой GitHub…
+Show keyboard shortcuts	Показать сочетания клавиш
+Show User Guides	Показать руководства пользователя
+S&how logs in Explorer	&Показать журналы в Проводнике
+Release notes	Примечания к выпуску
+Create &issue on GitHub	Создать &задачу на GitHub
+Create &pull request	Создать &запрос на слияние
+&Update from 	&Обновить из 
+Preview pull request	Предпросмотр запроса на слияние
+View branch on GitHub	Просмотреть ветку на GitHub
+Add to dictionary	Добавить в словарь
+Unrecoverable error	Неустранимая ошибка
+Reveal Repository in Finder?	Показать репозиторий в Finder?
+File	Файл
+Edit	Правка
+View	Вид
+Help	Справка
+Accounts	Учётные записи
+Account	Учётная запись
+Appearance	Внешний вид
+Advanced	Дополнительно
+Integrations	Интеграции
+Accessibility	Специальные возможности
+Notifications	Уведомления
+Notifications Settings	Настройки уведомлений
+Options	Настройки
+Preferences	Настройки
+Settings	Настройки
+General	Общие
+Privacy	Конфиденциальность
+System	Системная
+Default	По умолчанию
+Current	Текущий
+Incoming	Входящий
+Local	Локальный
+Remote	Удалённый
+Name	Имя
+Description	Описание
+Email	Электронная почта
+Username	Имя пользователя
+Password	Пароль
+Path	Путь
+Local path	Локальный путь
+Branch name	Имя ветки
+Default branch	Ветка по умолчанию
+Default branch name for new repositories	Имя ветки по умолчанию для новых репозиториев
+Date format	Формат даты
+Time format	Формат времени
+Number format	Формат чисел
+Theme	Тема
+Dark	Тёмная
+Light	Светлая
+Search…	Поиск…
+Filter	Фильтр
+Filter Options	Настройки фильтра
+Clear filters	Сбросить фильтры
+None	Нет
+Enabled	Включено
+No repository selected	Репозиторий не выбран
+No local changes	Нет локальных изменений
+No content changes found	Изменений содержимого не найдено
+No files in commit	В коммите нет файлов
+No comments found	Комментариев нет
+No commit selected	Коммит не выбран
+No worktrees found	Рабочие деревья не найдены
+No pull requests found	Запросы на слияние не найдены
+No reviews found	Отзывов не найдено
+No other editors found.	Другие редакторы не найдены.
+No conflicts remaining	Конфликтов больше нет
+No files match your current filters	Нет файлов, соответствующих фильтрам
+There are no changes.	Изменений нет.
+The file is empty	Файл пуст
+This action cannot be undone.	Это действие нельзя отменить.
+This binary file has changed.	Этот двоичный файл изменился.
+Error	Ошибка
+Error details	Сведения об ошибке
+Warning:	Предупреждение:
+Close	Закрыть
+Cancel	Отмена
+Continue	Продолжить
+Done	Готово
+Done!	Готово!
+Yes	Да
+No	Нет
+Add	Добавить
+Remove	Удалить
+Delete	Удалить
+Save	Сохранить
+Restore	Восстановить
+Open	Открыть
+Retry	Повторить
+Skip	Пропустить
+Stop	Остановить
+Undo	Отменить
+New	Создать
+Copy	Копировать
+Clone	Клонировать
+Clone Again	Клонировать ещё раз
+Commit	Коммит
+Changes	Изменения
+History	История
+Branches	Ветки
+Summary	Сводка
+Pull requests	Запросы на слияние
+View on GitHub	Открыть на GitHub
+Open in browser	Открыть в браузере
+Open repository	Открыть репозиторий
+Open pull request	Открыть запрос на слияние
+Create Pull Request	Создать запрос на слияние
+Publish repository	Опубликовать репозиторий
+Publish branch	Опубликовать ветку
+Publish your branch	Опубликовать вашу ветку
+Publish your repository to GitHub	Опубликовать ваш репозиторий на GitHub
+Clone a repository	Клонировать репозиторий
+Create a new repository	Создать новый репозиторий
+Add a local repository	Добавить локальный репозиторий
+Add local repository	Добавить локальный репозиторий
+Clone repository…	Клонировать репозиторий…
+Create new repository…	Создать репозиторий…
+Add existing repository…	Добавить существующий репозиторий…
+Add repository	Добавить репозиторий
+Create repository	Создать репозиторий
+Create branch	Создать ветку
+Create new branch	Создать новую ветку
+Create branch based on…	Создать ветку на основе…
+Create branch from commit	Создать ветку из коммита
+Create branch and cherry-pick	Создать ветку и перенести коммит
+New branch	Новая ветка
+New worktree	Новое рабочее дерево
+New worktree…	Создать рабочее дерево…
+Add worktree	Добавить рабочее дерево
+Create worktree	Создать рабочее дерево
+Create tag	Создать тег
+Create Tag…	Создать тег…
+Delete tag	Удалить тег
+Delete tag…	Удалить тег…
+Delete branch	Удалить ветку
+Delete remote branch	Удалить удалённую ветку
+Rename branch	Переименовать ветку
+Rename worktree	Переименовать рабочее дерево
+Remove repository	Удалить репозиторий из списка
+Remove alias	Удалить псевдоним
+Remove custom provider	Удалить пользовательского поставщика
+Repository settings	Настройки репозитория
+repository settings	настройках репозитория
+Checkout	Переключиться
+Checkout commit	Перейти к коммиту
+Checkout commit?	Перейти к этому коммиту?
+Checkout in new worktree…	Переключиться в новом рабочем дереве…
+Switch branch	Переключить ветку
+Copy repo name	Копировать имя репозитория
+Copy repo path	Копировать путь к репозиторию
+Copy worktree name	Копировать имя рабочего дерева
+Copy worktree path	Копировать путь к рабочему дереву
+Copy branch name	Копировать имя ветки
+Copy paths	Копировать пути
+Copy relative paths	Копировать относительные пути
+Copy SHA	Копировать SHA
+Copy the full SHA	Копировать полный SHA
+Select all	Выделить всё
+Collapse expanded lines	Свернуть раскрытые строки
+Expand whole file	Развернуть весь файл
+Expand All	Развернуть всё
+Expand Up	Развернуть вверх
+Expand Down	Развернуть вниз
+View conflicts	Посмотреть конфликты
+Conflicted files	Файлы с конфликтами
+Resolve	Разрешить
+Resolve with Copilot	Разрешить с помощью Copilot
+No Copilot resolution available for this file.	Для этого файла нет варианта разрешения от Copilot.
+All conflicts resolved	Все конфликты разрешены
+All conflicted files have been resolved. 	Все конфликты в файлах разрешены. 
+Rebase	Перебазировать
+Revert changes in commit	Отменить изменения в коммите
+Undo commit	Отменить коммит
+Undo commit…	Отменить коммит…
+Amend commit…	Изменить последний коммит…
+Reset to commit	Сбросить до коммита
+Reset to commit…	Сбросить до коммита…
+Reorder commits	Изменить порядок коммитов
+Reorder commit	Изменить порядок коммита
+Create a merge commit	Создать коммит слияния
+Squash and merge	Объединить коммиты и слить
+Discard changes	Отменить изменения
+Discard	Отменить изменения
+Permanently discard changes	Безвозвратно отменить изменения
+Confirm discard changes	Подтверждение отмены изменений
+Discard stash?	Удалить отложенные изменения?
+Stashed Changes	Отложенные изменения
+Stashed changes	Отложенные изменения
+View your stashed changes	Посмотреть отложенные изменения
+Overwrite stash?	Перезаписать отложенные изменения?
+File does not exist on disk	Файл отсутствует на диске
+Discarding changes	Отмена изменений
+Discarding changes permanently	Безвозвратная отмена изменений
+Discarding stash	Удаление отложенных изменений
+Hide whitespace changes	Скрыть изменения пробелов
+Show whitespace changes?	Показать изменения пробелов?
+Whitespace	Пробельные символы
+Unified	Единый вид
+Split	Раздельный вид
+Diff Options	Настройки сравнения
+Diff display	Отображение различий
+Diff:	Различия:
+Difference	Различие
+Show diff	Показать различия
+Line 	Строка 
+Lines 	Строки 
+Lines changed:	Изменённых строк:
+No newline at end of file	Нет перевода строки в конце файла
+Ignored files	Игнорируемые файлы
+Ignore file (add to .gitignore)	Игнорировать файл (добавить в .gitignore)
+Ignore folder (add to .gitignore)	Игнорировать папку (добавить в .gitignore)
+Include selected files	Включить выбранные файлы
+Exclude selected files	Исключить выбранные файлы
+Show worktrees	Показать рабочие деревья
+Always show worktree list	Всегда показывать рабочие деревья
+Show status icons in the repository list	Показывать значки статуса в списке репозиториев
+Show check marks in the diff	Показывать галочки в сравнении
+Show commit length warning	Предупреждать о длине коммита
+Underline links	Подчёркивать ссылки
+Prefer absolute dates over relative	Предпочитать точные даты относительным
+Enable notifications	Включить уведомления
+Select an editor	Выбрать редактор
+External editor	Внешний редактор
+Configure custom editor…	Настроить другой редактор…
+Configure custom shell…	Настроить оболочку…
+Configure Git	Настроить Git
+Configure…	Настроить…
+Command line arguments	Аргументы командной строки
+Path to executable	Путь к исполняемому файлу
+Generate commit message with Copilot	Создать сообщение коммита с помощью Copilot
+Add Signed-off-by trailer	Добавить строку Signed-off-by
+Allow empty commit	Разрешить пустой коммит
+Bypass Commit hooks	Игнорировать хуки коммита
+Bypass	Пропустить проверку
+Bypassed	Проверка пропущена
+Committing changes hidden by filter	Коммит изменений, скрытых фильтром
+Commit filtered changes?	Закоммитить отфильтрованные изменения?
+Confirm committing conflicted files	Подтвердить коммит файлов с конфликтами
+Commit anyway	Всё равно создать коммит
+You have changes on this branch. What would you like to do with them?	В этой ветке есть изменения. Что вы хотите с ними сделать?
+Do not show this message again	Больше не показывать это сообщение
+Continue in browser	Продолжить в браузере
+Fork this repository	Создать форк репозитория
+Publish this repository to GitHub	Опубликовать репозиторий на GitHub
+Do you want to fork this repository?	Создать форк этого репозитория?
+Are you sure you want to force push?	Вы уверены, что хотите принудительно отправить изменения?
+Push rejected	Отправка изменений отклонена
+Push blocked: secret detected	Отправка заблокирована: обнаружен секрет
+Push commits	Отправить коммиты
+Force pushing	Принудительная отправка изменений
+Fetch	Получить сведения об обновлениях
+Refresh this list	Обновить список
+Refreshing repository	Обновление репозитория
+Checking out files	Переключение файлов
+Committing changes	Создание коммита
+Installing update…	Установка обновления…
+Quit and Install Update	Выйти и установить обновление
+Update	Обновить
+Install and restart	Установить и перезапустить
+Move and Restart	Переместить и перезапустить
+Retry clone	Повторить клонирование
+Open without Git	Открыть без Git
+Open git settings	Открыть настройки Git
+Initialize Git LFS	Инициализировать Git LFS
+Authentication failed	Ошибка аутентификации
+Re-authorization required	Требуется повторная авторизация
+Invalidated account token	Токен учётной записи недействителен
+Sign in to GitHub.com	Войти на GitHub.com
+Sign in to GitHub Enterprise	Войти в GitHub Enterprise
+Sign in using your browser	Войти через браузер
+Sign out	Выйти из учётной записи
+Login	Вход
+Your Account Emails	Адреса электронной почты вашей учётной записи
+Add GitHub Enterprise account	Добавить учётную запись GitHub Enterprise
+Enterprise address	Адрес GitHub Enterprise
+Remember password	Запомнить пароль
+Remember passphrase	Запомнить парольную фразу
+SSH User Password	Пароль пользователя SSH
+SSH Key Passphrase	Парольная фраза ключа SSH
+Untrusted server	Недоверенный сервер
+Unable to open external editor	Не удалось открыть внешний редактор
+Unable to open shell	Не удалось открыть оболочку
+Unable to locate Git	Не удалось найти Git
+Files too large	Слишком большие файлы
+Unknown co-authors	Неизвестные соавторы
+Exit tutorial	Выйти из обучения
+Start tutorial	Начать обучение
+Welcome to GitHub Desktop	Добро пожаловать в GitHub Desktop
+Get started	Начать
+Let's get started!	Начнём!
+You're all set!	Всё готово!
+You're done!	Готово!
+Learn more	Подробнее
+Learn more.	Подробнее.
+Choose…	Выбрать…
+Locate…	Найти…
+Open with…	Открыть с помощью…
+Open editor	Открыть редактор
+Open file in external program.	Открыть файл во внешней программе.
+Open in command line,	Открыть в командной строке,
+Create a Pull Request from your current branch	Создать запрос на слияние из текущей ветки
+Preview the Pull Request from your current branch	Предпросмотр запроса на слияние из текущей ветки
+Pull request markdown body	Текст запроса на слияние в Markdown
+Preview Pull Request	Предпросмотр запроса на слияние
+Pull Request checks failed	Проверки запроса на слияние не пройдены
+Checks Summary	Сводка проверок
+All checks have passed	Все проверки пройдены
+All checks have failed	Все проверки завершились ошибкой
+Some checks haven't completed yet	Некоторые проверки ещё не завершены
+Some checks were not successful	Некоторые проверки не прошли
+Review requested	Запрошена проверка
+View check details	Посмотреть сведения о проверке
+Re-run all checks	Повторить все проверки
+Re-run failed checks	Повторить проверки с ошибками
+View Pull Request on GitHub	Посмотреть запрос на слияние на GitHub
+View Branch on GitHub	Посмотреть ветку на GitHub
+About 	О программе 
+License and Open Source Notices	Лицензии и сведения об открытом ПО
+Supported operating systems	Поддерживаемые операционные системы
+Looking for the latest features?	Хотите попробовать новые возможности?
+Beta Channel	Бета-канал
+View all release notes	Посмотреть все примечания к выпуску
+Responsible use of Copilot in GitHub Desktop	Ответственное использование Copilot в GitHub Desktop
+Terms and Conditions	Условия использования
+Terms of Service	Условия обслуживания
+GitHub Privacy Statement	Политика конфиденциальности GitHub
+Always use Copilot for conflict resolution?	Всегда использовать Copilot для разрешения конфликтов?
+Bypass push detection	Пропустить проверку отправки
+Choose GitHub Copilot	Выбрать GitHub Copilot
+Command line tool installed	Инструмент командной строки установлен
+Commit message override	Замена сообщения коммита
+Commit reachability	Доступность коммита
+Compressing objects	Сжатие объектов
+Copilot billing issue	Проблема с оплатой Copilot
+Copilot billing not configured	Оплата Copilot не настроена
+Copilot conflict resolution summary	Сводка разрешения конфликтов Copilot
+Copilot settings	Настройки Copilot
+Create a tag	Создать тег
+Custom providers	Пользовательские поставщики
+Delete worktree failed	Не удалось удалить рабочее дерево
+Discarded changes will be unrecoverable	Отменённые изменения нельзя будет восстановить
+Dispatch CLI Action	Выполнить действие CLI
+Explore projects on GitHub	Найти проекты на GitHub
+For my own purposes	Для личных целей
+How are you planning to use this fork?	Как вы планируете использовать этот форк?
+I'll fix it later	Исправлю позже
+Icon Preview	Предпросмотр значка
+It's a false positive	Это ложное срабатывание
+It's used in tests	Используется в тестах
+Move GitHub Desktop to the Applications folder?	Переместить GitHub Desktop в папку «Программы»?
+Newer commits on remote	В удалённом репозитории есть новые коммиты
+Open a pull request	Создать запрос на слияние
+Open the Atom website	Открыть сайт Atom
+Open this submodule on GitHub Desktop	Открыть этот подмодуль в GitHub Desktop
+Pull request markdown comment	Комментарий к запросу на слияние в Markdown
+Quota exceeded	Квота превышена
+Receiving objects	Получение объектов
+Release notes generated from markdown	Примечания к выпуску, сформированные из Markdown
+remote: Compressing objects	Удалённый сервер: сжатие объектов
+remote: Resolving deltas	Удалённый сервер: обработка различий
+Resolving deltas	Обработка различий
+Reverting…	Отмена изменений…
+Session quota exceeded	Квота сеанса превышена
+SSH Host	SSH-сервер
+Test Copilot Snapshot Card	Проверка карточки Copilot
+Test Notifications	Проверка уведомлений
+Test Token Expiration	Проверка срока действия токена
+To contribute to the parent project	Для участия в основном проекте
+Update existing Git LFS filters?	Обновить существующие фильтры Git LFS?
+Upstream already exists	Вышестоящий репозиторий уже существует
+Writing objects	Запись объектов
+Add certificate	Добавить сертификат
+Allow me to expose this secret	Разрешить раскрыть этот секрет
+Apply expiry	Применить срок действия
+Dispatch	Выполнить
+Forcefully delete	Удалить принудительно
+I understand	Я понимаю
+I'm sure	Я уверен
+Ignore and Continue	Игнорировать и продолжить
+Override	Переопределить
+Overwrite	Перезаписать
+Quit anyway	Всё равно выйти
+Stash changes and continue	Отложить изменения и продолжить
+Update existing filters	Обновить существующие фильтры
+Yes, commit files	Да, создать коммит для файлов
+Abort	Прервать
+Back	Назад
+Create without pushing	Создать без отправки
+Dismiss	Закрыть
+Ignore	Игнорировать
+Install Git	Установить Git
+Not Now	Не сейчас
+Not now	Не сейчас
+Open options	Открыть настройки
+Always use Copilot when conflicts are detected	Всегда использовать Copilot при обнаружении конфликтов
+API format	Формат API
+App location	Расположение приложения
+Arguments	Аргументы
+Authentication	Аутентификация
+Avatar URL	Ссылка на аватар
+Azure API version	Версия API Azure
+Base URL	Базовый адрес URL
+Branch (optional)	Ветка (необязательно)
+Cache Git hook environment variables	Кешировать переменные окружения хуков Git
+Chat messages	Сообщения чата
+Checking out a commit	Переключение на коммит
+Cherry-pick commit…	Перенести коммит…
+Code completions	Автодополнение кода
+Configure manually	Настроить вручную
+Diff tab size	Размер табуляции в сравнении
+Display name	Отображаемое имя
+Endpoint	Адрес API
+Entitlement requests	Запросы на доступ
+Expired	Срок действия истёк
+Git ignore	Правила игнорирования Git
+In 10 min	Через 10 минут
+In 1h	Через 1 час
+In 62 min	Через 62 минуты
+In 8h	Через 8 часов
+Initialize this repository with a README	Создать README в репозитории
+License	Лицензия
+Load Git hook environment variables from shell	Загружать переменные окружения хуков Git из оболочки
+Model identifier	Идентификатор модели
+Organization	Организация
+Overage	Превышение лимита
+Overage allowed with exhausted quota	Превышение квоты разрешено
+Overriding commit message with generated message	Замена сообщения коммита сгенерированным
+Premium requests / AI credits	Премиум-запросы / AI-кредиты
+Reasoning effort	Уровень рассуждений
+Remaining percentage	Оставшийся процент
+Removing repositories	Удаление репозиториев из списка
+Removing worktrees	Удаление рабочих деревьев
+Rename…	Переименовать…
+Request timeout (seconds)	Тайм-аут запроса (секунды)
+Reset date	Сбросить дату
+Session limits	Лимиты сеанса
+Shell to use when loading environment	Оболочка для загрузки окружения
+This repository is a fork. How do you plan to use it?	Этот репозиторий — форк. Как вы планируете его использовать?
+Token-based billing	Оплата по токенам
+Type	Тип
+Unlimited	Без ограничений
+Usage allowed with exhausted quota	Использование после исчерпания квоты разрешено
+Use Copilot's suggestion	Использовать предложение Copilot
+Use Git Credential Manager	Использовать Git Credential Manager
+Use system OpenSSH (recommended)	Использовать системный OpenSSH (рекомендуется)
+Used requests	Использованные запросы
+Weekly limits	Недельные лимиты
+Workflow result	Результат рабочего процесса
+Yes, delete this branch on the remote	Да, удалить ветку в удалённом репозитории
+Checking out	Переключение
+Contribute to a project that interests you	Участвуйте в интересном вам проекте
+Current branch dropdown button	Кнопка списка текущих веток
+Current repository	Текущий репозиторий
+Current worktree	Текущее рабочее дерево
+Current worktree dropdown button	Кнопка списка рабочих деревьев
+Fast-forwarding branches	Обновление веток без коммита слияния
+Get started on a brand new project	Начните новый проект
+Pull request file list	Список файлов запроса на слияние
+Push pull button	Кнопка отправки и получения изменений
+Repository sidebar	Боковая панель репозитория
+Revert progress button	Кнопка прогресса отмены изменений
+Selected commit file list	Список файлов выбранного коммита
+Stash file list	Список отложенных файлов
+Submodules updated	Подмодули обновлены
+Test description	Тестовое описание
+The commits from the selected branch will be added to the current branch via a merge commit.	Коммиты из выбранной ветки будут добавлены в текущую с помощью коммита слияния.
+The commits from the selected branch will be rebased and added to the current branch.	Коммиты из выбранной ветки будут перебазированы и добавлены в текущую ветку.
+The commits in the selected branch will be combined into one commit in the current branch.	Коммиты выбранной ветки будут объединены в один коммит текущей ветки.
+The currently checked out branch. Pick this if you need to build on work done on this branch.	Текущая активная ветка. Выберите её, чтобы продолжить работу в ней.
+The default branch in your repository. Pick this to start on something new that's not dependent on your current branch.	Ветка вашего репозитория по умолчанию. Выберите её, чтобы начать независимую работу.
+The default branch of the upstream repository. Pick this to start on something new that's not dependent on your current branch.	Ветка вышестоящего репозитория по умолчанию. Выберите её, чтобы начать независимую работу.
+The detected string is not a secret	Найденная строка не является секретом
+The secret is real, I understand the risk, and I will need to revoke it. This will open a security alert and notify admins of this repository.	Секрет настоящий. Я понимаю риск и необходимость его отозвать. Будет создано предупреждение безопасности и отправлено уведомление администраторам.
+The secret poses no risk. If anyone finds it, they cannot do any damage or gain access to sensitive information.	Секрет не представляет риска. Даже если его найдут, с его помощью нельзя получить доступ к конфиденциальным данным или причинить вред.
+This repository is currently only available on your local machine. By publishing it on GitHub you can share it, and collaborate with others.	Сейчас репозиторий доступен только на вашем компьютере. Опубликуйте его на GitHub, чтобы делиться им и работать вместе с другими.
+Updating submodules	Обновление подмодулей
+Work on an existing project in GitHub Desktop	Работайте над существующим проектом в GitHub Desktop
+You can open this submodule on GitHub Desktop as a normal repository to manage and commit any changes in it.	Вы можете открыть этот подмодуль в GitHub Desktop как обычный репозиторий и управлять его изменениями.
+Your in-progress work will be stashed on this branch for you to return to later	Незавершённые изменения будут отложены в этой ветке, чтобы вы могли вернуться к ним позже
+Your in-progress work will follow you to the new branch	Незавершённые изменения будут перенесены в новую ветку
+Remote URL	URL удалённого репозитория
+repository path	путь к репозиторию
+URL or username/repository	URL или имя пользователя/репозиторий
+Your Name	Ваше имя
+My provider	Мой поставщик
+Able to merge.	Слияние возможно.
+Can't automatically merge.	Автоматическое слияние невозможно.
+All resolutions have been undone.	Все решения конфликтов отменены.
+Do you want to continue anyway?	Всё равно продолжить?
+Do you want to create a new branch instead?	Вместо этого создать новую ветку?
+Are you sure you want to commit these conflicted files?	Вы уверены, что хотите создать коммит с конфликтующими файлами?
+Are you sure you want to continue connecting?	Вы уверены, что хотите продолжить подключение?
+Are you sure you want to discard these stashed changes?	Вы уверены, что хотите удалить отложенные изменения?
+Are you sure you want to leave the tutorial? This will bring you back to the home screen.	Выйти из обучения? Вы вернётесь на главный экран.
+Are you sure you want to proceed? This will overwrite your existing stash with your current changes.	Продолжить? Текущие изменения заменят существующие отложенные изменения.
+Are you sure you want to discard all changes to:	Вы уверены, что хотите отменить все изменения в:
+Are you sure you want to discard the selected changes to:	Вы уверены, что хотите отменить выбранные изменения в:
+Are you sure you want to discard all 	Вы уверены, что хотите отменить все 
+Are you sure you want to remove the repository "	Вы уверены, что хотите убрать репозиторий «
+Are you sure you want to delete the tag	Вы уверены, что хотите удалить тег
+Are you sure you want to delete the worktree 	Вы уверены, что хотите удалить рабочее дерево 
+Are you sure you want to remove the custom provider	Вы уверены, что хотите удалить пользовательского поставщика
+Copy to	Копировать в
+A branch named 	Ветка с именем 
+A tag named 	Тег с именем 
+Directory could not be created at this path. You may not have permissions to create a directory here.	Не удалось создать папку по указанному пути. Возможно, у вас недостаточно прав доступа.
+The directory 	Папка 
+The repository will be removed from GitHub Desktop:	Репозиторий будет удалён из списка GitHub Desktop:
+The file was renamed but not changed	Файл переименован без изменений содержимого
+The file was renamed and includes changes.	Файл переименован и изменён.
+The diff is too large to be displayed.	Различия слишком велики для отображения.
+The diff is too large to be displayed by default.	Различия слишком велики для отображения по умолчанию.
+The file is in conflict and must be resolved via the command line.	Конфликт в файле необходимо разрешить через командную строку.
+There are no uncommitted changes in this repository. Here are some friendly suggestions for what to do next.	В этом репозитории нет незакоммиченных изменений. Вот несколько вариантов дальнейших действий.
+This directory does not appear to be a Git repository.	Похоже, эта папка не является репозиторием Git.
+No open pull requests in 	Нет открытых запросов на слияние в 
+No Copilot models available.	Нет доступных моделей Copilot.
+No Copilot usage data available yet.	Данных об использовании Copilot пока нет.
+No models found.	Модели не найдены.
+No models yet. Add at least one to use this provider.	Моделей пока нет. Добавьте хотя бы одну, чтобы использовать поставщика.
+No credentials will be sent with requests to this provider.	Учётные данные не будут отправляться этому поставщику.
+Only whitespace changes found	Найдены только изменения пробелов
+Show a confirmation dialog before...	Показывать подтверждение перед...
+Date: 	Дата: 
+Path: 	Путь: 
+Size:	Размер:
+Original expiry:	Исходный срок действия:
+Current local expiry:	Текущий локальный срок действия:
+Expiration (local time)	Срок действия (местное время)
+Current: 	Текущий: 
+Default (provider's choice)	По умолчанию (выбор поставщика)
+Archived	Архивный
+Author	Автор
+Background updates	Фоновые обновления
+Connecting to GitHub	Подключение к GitHub
+Creating your fork 	Создание вашего форка 
+Download	Скачать
+Downloading	Загрузка
+Drag the commits to squash or reorder them.	Перетащите коммиты, чтобы объединить их или изменить порядок.
+Drag the commits to the branch menu to cherry-pick them.	Перетащите коммиты в меню веток, чтобы перенести их.
+Editing 	Редактирование 
+Error checking merge status.	Ошибка проверки состояния слияния.
+Failed	Ошибка
+Failed to discard changes to 	Не удалось отменить изменения в 
+Git config	Настройки Git
+Git is requesting permission to sign in to this server:	Git запрашивает разрешение на вход на этот сервер:
+Great commit summaries contain fewer than 50 characters	Хорошее краткое описание коммита содержит менее 50 символов
+Hang tight	Почти готово
+Help GitHub Desktop improve by submitting	Помогите улучшить GitHub Desktop, отправляя
+If I have changes and I switch branches...	Если у меня есть изменения и я переключаю ветку...
+Keep this code private	Сохранить этот код в тайне
+Last fetched 	Последняя проверка обновлений 
+Last Modified: 	Последнее изменение: 
+Learn about submodules.	Подробнее о подмодулях.
+Learn more about remote repositories.	Подробнее об удалённых репозиториях.
+Learn more about gitignore files	Подробнее о файлах gitignore
+Loading available models…	Загрузка доступных моделей…
+Loading Copilot usage…	Загрузка данных об использовании Copilot…
+Loading pull requests as fast as I can!	Загружаем запросы на слияние!
+Loading system theme	Загрузка системной темы
+local only	только локально
+Make sure notifications are 	Убедитесь, что уведомления 
+Merging 	Слияние 
+Models	Модели
+Network and credentials	Сеть и учётные данные
+New to GitHub?	Впервые на GitHub?
+Only continue if you recognize and trust this server.	Продолжайте только в том случае, если знаете этот сервер и доверяете ему.
+Open Source Licenses and Notices	Лицензии и сведения об открытом ПО
+Please wait	Пожалуйста, подождите
+Previous tags	Предыдущие теги
+Resolution summary	Сводка разрешённых конфликтов
+Review and edit the generated message carefully before use.	Проверьте и при необходимости измените сгенерированное сообщение перед использованием.
+Review the suggested resolutions carefully before applying them to your files.	Внимательно проверьте предложенные решения конфликтов перед применением.
+Search for user	Поиск пользователя
+Selecting lines is disabled when hiding whitespace changes.	При скрытии изменений пробелов выбор отдельных строк недоступен.
+Select a base branch above.	Выберите базовую ветку выше.
+Select a single commit or a range of consecutive commits to view a diff.	Выберите один коммит или несколько подряд, чтобы просмотреть различия.
+Select your editor in	Выберите редактор в
+Showing changes from all commits	Показаны изменения из всех коммитов
+Sign in to your GitHub.com account to access your repositories.	Войдите в учётную запись GitHub.com, чтобы получить доступ к репозиториям.
+Skip this step	Пропустить шаг
+Sorry, I can't find that branch	Не удалось найти такую ветку
+Sorry, I can't find that pull request!	Не удалось найти такой запрос на слияние!
+Sorry, I can't find that repository	Не удалось найти такой репозиторий
+Sorry, I can't find that remote branch.	Не удалось найти такую удалённую ветку.
+Spaces and invalid characters have been replaced by hyphens.	Пробелы и недопустимые символы заменены дефисами.
+Support details	Сведения для поддержки
+The commit message you have entered will be overridden by the generated commit message.	Введённое сообщение коммита будет заменено сгенерированным.
+The following files are over 100MB.	Следующие файлы больше 100 МБ.
+The Git repository	Репозиторий Git
+The Git repository at 	Репозиторий Git по пути 
+The repository 	Репозиторий 
+There are no steps to display for this check.	Для этой проверки нет этапов.
+These branches can be automatically merged.	Эти ветки можно объединить автоматически.
+This is an example link	Это пример ссылки
+This may indicate attackers are trying to steal your data.	Это может означать, что злоумышленники пытаются украсть ваши данные.
+This operating system is no longer supported. Software updates have been disabled.	Эта операционная система больше не поддерживается. Обновления отключены.
+This will not affect the original repository name on GitHub.	Это не изменит исходное имя репозитория на GitHub.
+To help you get Git installed and configured for your operating system, we have some external resources available.	У нас есть дополнительные материалы по установке и настройке Git для вашей операционной системы.
+Untracked files will be excluded	Неотслеживаемые файлы будут исключены
+Update email	Обновить адрес электронной почты
+Usage	Использование
+When a stash exists, access it at the bottom of the Changes tab to the left.	Отложенные изменения можно найти внизу вкладки «Изменения» слева.
+You can stash your changes now and recover them afterwards.	Вы можете отложить изменения сейчас и восстановить их позже.
+You can drag & drop an existing repository folder here to add it to Desktop	Перетащите сюда папку существующего репозитория, чтобы добавить его в GitHub Desktop
+You can only open pull requests against remote branches.	Запросы на слияние можно создавать только для удалённых веток.
+You have the latest version (last checked	Установлена последняя версия (последняя проверка
+Your branch must be published before opening a pull request.	Перед созданием запроса на слияние необходимо опубликовать ветку.
+You're already signed in to	Вы уже вошли в
+Your default editor is	Ваш редактор по умолчанию —
+Your new branch will be based on	Новая ветка будет создана на основе
+Add a repository to GitHub Desktop to start collaborating	Добавьте репозиторий в GitHub Desktop, чтобы начать совместную работу
+Filter your repositories	Поиск репозиториев
+Create a tutorial repository…	Создать учебный репозиторий…
+Return to in progress tutorial	Вернуться к учебному проекту
+Clone a repository from the Internet…	Клонировать репозиторий из интернета…
+Create a New Repository on your local drive…	Создать новый репозиторий на компьютере…
+Add an Existing Repository from your local drive…	Добавить существующий репозиторий с компьютера…
+Looks like there are no repositories for	Пока нет репозиториев у пользователя
+ on 	 на 
+if you've created a repository recently.	если вы недавно создали репозиторий.
+ProTip!	Совет!
+ You can drag & drop an existing repository folder here to add it to Desktop	 Вы можете перетащить сюда папку существующего репозитория, чтобы добавить его в GitHub Desktop
+ProTip! Press	Совет! Нажмите
+Sorry, I can't find any repository matching	Не удалось найти репозитории по запросу
+GitHub Desktop is a seamless way to contribute to projects on GitHub and GitHub Enterprise. Sign in below to get started with your existing projects.	GitHub Desktop помогает работать с проектами на GitHub и GitHub Enterprise. Войдите в учётную запись, чтобы начать.
+If you are using GitHub Enterprise at work, sign in to it to get access to your repositories.	Если вы используете GitHub Enterprise на работе, войдите в него, чтобы получить доступ к репозиториям.
+Create your free account.	Создайте бесплатную учётную запись.
+A branch allows you to work on different versions of a repository at one time. Create a\n                branch by going into the branch menu in the top bar and\n              clicking "New branch".	Ветка позволяет одновременно работать над разными версиями репозитория. Создайте ветку через меню веток в верхней панели, выбрав «Новая ветка».
+A commit allows you to save sets of changes. In the “summary“ field in the bottom left, write a short message that describes the changes you made. When you’re done, click the blue Commit button to finish.	Коммит сохраняет набор изменений. В поле «Описание» внизу слева кратко опишите изменения и нажмите синюю кнопку «Создать коммит».
+A pull request allows you to propose changes to the code. By opening one, you’re requesting that someone review and merge them. Since this is a demo repository, this pull request will be private.	Запрос на слияние позволяет предложить изменения кода на проверку. Поскольку это учебный репозиторий, запрос на слияние будет закрытым.
+Use this tutorial to get comfortable with Git, GitHub, and GitHub Desktop.	Этот учебный проект поможет освоиться с Git, GitHub и GitHub Desktop.
+Publishing will “push”, or upload, your commits to this branch of your repository on GitHub. Publish using the third button in the top bar.	При публикации ваши коммиты отправляются в ветку репозитория на GitHub. Для публикации нажмите третью кнопку на верхней панели.
+You’ve learned the basics on how to use GitHub Desktop. Here are some suggestions for what to do next.	Вы освоили основы работы с GitHub Desktop. Вот несколько идей, что делать дальше.
+Open this repository in your preferred text editor. Edit the	Откройте репозиторий в выбранном редакторе и измените файл
+file, save it, and come back.	, сохраните его и вернитесь сюда.
+Place extra information in the description field.	Дополнительную информацию можно указать в поле описания.
+The current branch (	Текущая ветка (
+This is a submodule based on the repository	Это подмодуль, связанный с репозиторием
+This submodule has 	У этого подмодуля есть 
+Submodule changes	Изменения подмодуля
+The current branch is protected	Текущая ветка защищена
+Branch filter	Фильтр веток
+Commits	Коммиты
+Changes can be restored by retrieving them from the 	Изменения можно восстановить, получив их из 
+Create a new branch	Создать новую ветку
+create a new branch	создать новую ветку
+create a repository	создать репозиторий
+create a fork	создать форк
+create a pull request	создать запрос на слияние
+Clone URL	URL для клонирования
+Repository URL or GitHub username and repository	URL репозитория или имя пользователя GitHub и название репозитория
+Git LFS filters are already configured in	Фильтры Git LFS уже настроены в
+Git LFS	Git LFS
+Git Credential Manager	Диспетчер учётных данных Git
+GitHub Copilot	GitHub Copilot
+GitHub Enterprise	GitHub Enterprise
+GitHub.com	GitHub.com
+Sign in to your GitHub Enterprise	Войти в GitHub Enterprise
+Confirm this address appears in your browser. Otherwise, cancel and contact your repository administrator.	Проверьте, что этот адрес отображается в браузере. Если нет — отмените действие и свяжитесь с администратором репозитория.
+The browser will redirect you back to GitHub Desktop once you've signed in.	После входа браузер вернёт вас в GitHub Desktop.
+Your browser will redirect you back to GitHub Desktop once you've signed in. If your browser asks for your permission to launch GitHub Desktop, please allow it.	После входа браузер вернёт вас в GitHub Desktop. Если браузер запросит разрешение открыть приложение, подтвердите его.
+Your account token is no longer valid and you have been signed out from your 	Токен учётной записи больше не действует, поэтому вы вышли из 
+We were unable to authenticate with	Не удалось выполнить вход через
+GitHub Desktop sends usage metrics to improve the product and inform feature decisions.	GitHub Desktop отправляет статистику использования для улучшения программы.
+Learn more about user metrics.	Подробнее о статистике использования.
+Learn more about generating commit messages.	Подробнее о генерации сообщений коммитов.
+Learn more about commit signing.	Подробнее о подписи коммитов.
+Learn more about GitHub Copilot	Подробнее о GitHub Copilot
+Learn more about Copilot in GitHub Desktop.	Подробнее о Copilot в GitHub Desktop.
+Learn more about bidirectional Unicode characters	Подробнее о двунаправленных символах Unicode
+Learn more about unreachable commits.	Подробнее о недоступных коммитах.
+Allowing secrets risks exposure. Consider	Разрешение секретов может привести к их раскрытию. Рассмотрите возможность
+Secret Scanning	Проверка секретов
+Secrets	Секреты
+Exposing this secret can allow someone to:	Раскрытие этого секрета может позволить посторонним:
+Know which resources the secret(s) can access	Определить, к каким ресурсам есть доступ у секретов
+Verify the identity of the secret(s)	Проверить принадлежность секретов
+found secret(s) in the commit(s) you attempted to push.	обнаружены секреты в коммитах, которые вы пытались отправить.
+Push the secret(s) to this repository without being blocked	Отправить секреты в репозиторий без блокировки
+We recommend you avoid committing these files or use	Не рекомендуется добавлять эти файлы в коммит. Либо используйте
+removing the secret from your commit and commit history.	удаление секрета из коммита и истории коммитов.
+Rules	Правила
+rules	правила
+One or more rules	Одно или несколько правил
+one or more rules	одно или несколько правил
+View all rulesets for this branch.	Посмотреть все наборы правил для этой ветки.
+Check run steps incoming!	Загружаются этапы проверки!
+Check runs incoming!	Загружаются проверки!
+Checking mergeability…	Проверка возможности слияния…
+Checking for ability to merge automatically...	Проверка возможности автоматического слияния…
+Checking for ability to rebase automatically…	Проверка возможности перебазирования…
+Checking for ability to 	Проверка возможности 
+Checking for updates…	Проверка обновлений…
+Downloading update…	Загрузка обновления…
+An update has been downloaded and is ready to be installed.	Обновление загружено и готово к установке.
+An updated version of GitHub Desktop is available and will be installed at the next launch. See	Доступна новая версия GitHub Desktop. Она установится при следующем запуске. Подробнее:
+Exciting new features have been added	Появились новые возможности
+important updates	важные обновления
+release notes	примечания к выпуску
+what's new	что нового
+now to install pending updates.	сейчас, чтобы установить ожидающие обновления.
+Do not close GitHub Desktop while the update is in progress. Closing now may break your installation.	Не закрывайте GitHub Desktop во время обновления. Это может повредить установку.
+An optimized version of GitHub Desktop is available for your	Для вашей системы доступна оптимизированная версия GitHub Desktop
+This version of GitHub Desktop is missing	В этой версии GitHub Desktop отсутствует
+GitHub Desktop cannot verify the identity of 	GitHub Desktop не может проверить подлинность 
+If you are unsure of what to do, cancel and contact your system administrator.	Если вы не уверены, отмените действие и обратитесь к системному администратору.
+If you trust the owner of the directory you can	Если вы доверяете владельцу папки, можно
+If you trust the owner of the directory you can add an exception for this directory in order to continue.	Если вы доверяете владельцу, добавьте для этой папки исключение, чтобы продолжить.
+Trust repository	Доверять репозиторию
+add an exception for this directory	добавить исключение для этой папки
+appears to be a Git repository. Would you like to	похоже, является Git-репозиторием. Хотите
+appears to be a subfolder of Git repository.	похоже, является подпапкой Git-репозитория.
+Choose a new alias for the repository "	Введите новое отображаемое имя для репозитория «
+Could not find a default branch to compare against.	Не удалось найти ветку по умолчанию для сравнения.
+Unable to load the diff for this file.	Не удалось загрузить сравнение изменений для файла.
+Unable to display diff when multiple non-consecutive selected.	Не удалось показать изменения: выбрано несколько несмежных участков.
+There are uncommitted changes in this repository	В репозитории есть незакоммиченные изменения
+This will take you back to the original branch state and the conflicts you have already resolved will be discarded.	Будет восстановлено исходное состояние ветки. Уже разрешённые конфликты будут потеряны.
+Checking out a commit will create a detached HEAD, and you will no longer be on any branch. Are you sure you want to checkout this commit?	При переключении на этот коммит вы выйдете из текущей ветки (detached HEAD). Продолжить?
+You have changes in progress. Resetting to a previous commit might result in some of these changes being lost. Do you want to continue anyway?	У вас есть незавершённые изменения. Возврат к предыдущему коммиту может привести к их потере. Продолжить?
+You have changes in progress. Undoing the commit might result in some of these changes being lost. Do you want to continue anyway?	Есть незавершённые изменения. Отмена коммита может привести к их потере. Продолжить?
+You have changes in progress. Undoing the merge commit might result in some of these changes being lost.	Есть незавершённые изменения. Отмена коммита слияния может привести к их потере.
+Unable to start rebase. Check you have chosen a valid branch.	Не удалось начать перебазирование. Проверьте выбранную ветку.
+Unable to merge unrelated histories in this repository	Невозможно слить не связанные между собой истории репозитория
+GitHub Desktop is unable to push commits to this branch because there are commits on the remote that are not present on your local branch. Fetch these new commits before pushing in order to reconcile them with your local commits.	Нельзя отправить коммиты в эту ветку: в удалённом репозитории есть новые коммиты. Сначала получите их (Fetch) и согласуйте изменения.
+This branch does not exist locally. Deleting it may impact others collaborating on this branch.	Этой ветки нет на компьютере. Её удаление может затронуть других участников.
+This branch may have an open pull request associated with it.	С этой веткой может быть связан открытый запрос на слияние.
+This can happen if another tool is currently modifying the Git configuration or if a Git process has terminated earlier without cleaning up the lock file. Do you want to	Это может произойти, если другая программа сейчас изменяет конфигурацию Git или процесс Git завершился, не удалив файл блокировки. Хотите
+Failed to update Git configuration file. A lock file already exists at	Не удалось обновить конфигурацию Git. Файл блокировки уже существует:
+delete the lock file	удалить файл блокировки
+edit your global Git config file	изменить глобальный файл конфигурации Git
+This file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected.	Этот файл содержит правила игнорирования файлов Git. Правила не влияют на файлы, уже находящиеся под контролем версий.
+Git is configured to convert them	Git настроен на их преобразование
+Interacting with individual lines or hunks will be disabled while hiding whitespace.	При скрытии пробелов нельзя будет выбирать отдельные строки и блоки изменений.
+This diff contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.	Этот файл содержит двунаправленный текст Unicode. Его фактическое содержимое может отличаться от отображаемого. Проверьте файл в редакторе, показывающем скрытые символы.
+This is used to identify the commits you create. Anyone will be able to see this information if you publish commits.	Эти данные используются как автор коммитов. После публикации коммитов они будут доступны другим пользователям.
+Learn more about commit attribution	Подробнее об указании автора коммита
+The default branch source is determined by your	Источник ветки по умолчанию определяется вашими
+Your default branch source is determined by your	Источник ветки по умолчанию определяется вашими
+Your current branch is unborn (does not contain any commits). Creating a new branch will rename the current branch.	В текущей ветке ещё нет коммитов. Создание новой ветки переименует текущую.
+Your new branch will be based on your currently checked out branch (	Новая ветка будет создана на основе текущей (
+Your new branch will be based on the commit '	Новая ветка будет создана на основе коммита «
+You do not currently have any branch checked out (your HEAD reference is detached). As such your new branch will be based on your currently checked out commit (	Сейчас вы находитесь вне ветки (detached HEAD), поэтому новая ветка будет создана на основе текущего коммита (
+New branches will be based on	Новые ветки будут создаваться на основе
+Will check out existing branch 	Будет выбрана существующая ветка 
+Will check out remote branch 	Будет выбрана удалённая ветка 
+Will be created as 	Будет создано как 
+Worktree will be created at 	Рабочее дерево будет создано по пути 
+Select the type of notification to display:	Выберите тип уведомлений:
+Allows the display of notifications when high-signal events take place in the current repository.	Показывать уведомления о важных событиях в текущем репозитории.
+GitHub Desktop has no permission to display notifications. Please, enable them in the	У GitHub Desktop нет разрешения показывать уведомления. Разрешите их в
+ to display these notifications from GitHub Desktop.	, чтобы получать уведомления GitHub Desktop.
+Show credit costs	Показать стоимость в кредитах
+Show Copilot model credit costs	Показать стоимость моделей Copilot в кредитах
+Show commit progress	Показать ход выполнения коммита
+Toggle password visibility	Показать или скрыть пароль
+Push, pull, fetch options	Параметры отправки и получения изменений
+Choose a resolution for this file	Выбрать способ разрешения конфликта
+Change resolution choice	Изменить вариант разрешения
+File resolution options	Параметры разрешения конфликтов файла
+Dismiss this message	Закрыть сообщение
+Open Summary Length Info	Информация о длине описания
+Resize handle	Изменить размер области
+Open Your Card	Открыть карточку
+File options	Параметры файла
+Stop amending	Завершить изменение коммита
+Review without body	Проверить без описания
+Reload details	Обновить сведения
+View stash	Посмотреть отложенные изменения
+Switch to manual	Перейти к ручному режиму
+Add model…	Добавить модель…
+Add provider…	Добавить провайдера…
+Configure custom providers…	Настроить пользовательских провайдеров…
+Configure Copilot in app settings	Настроить Copilot в параметрах приложения
+Copilot Instructions	Инструкции Copilot
+Copilot is powered by AI, so mistakes are possible.	Copilot использует ИИ, поэтому может ошибаться.
+Checking Copilot access…	Проверка доступа к Copilot…
+Model changes apply to future conflict resolutions.	Изменение модели повлияет на следующие разрешения конфликтов.
+Provider	Провайдер
+Prompts	Запросы
+Context	Контекст
+API key	Ключ API
+Bearer token	Токен Bearer
+Responses (GPT-5 series)	Ответы (семейство GPT-5)
+Chat completions (default)	Диалоговые ответы (по умолчанию)
+Reasoning models (o1, o3, GPT-5 reasoning variants, etc.) think before responding. Higher levels are slower but produce better answers on complex tasks. Leave on 	Модели с рассуждением (o1, o3, GPT-5 и др.) тратят больше времени на сложные задачи. Более высокий уровень работает медленнее, но может улучшить ответ. Оставьте 
+Sign in to an account with a refreshable token to test expiration.	Войдите в учётную запись с обновляемым токеном для проверки срока действия.
+This account does not have a refreshable token. Sign in again with short-lived tokens enabled to test expiration.	У этой учётной записи нет обновляемого токена. Войдите заново с включёнными краткосрочными токенами.
+Added	Добавлено
+Deleted	Удалено
+Common reasons are:	Возможные причины:
+Successfully rebased 	Успешно перебазировано: 
+Successfully merged 	Успешно объединено: 
+Successfully merged into 	Успешно слито в 
+Successfully copied 	Успешно скопировано: 
+Successfully reordered 	Успешно изменён порядок: 
+Successfully squashed 	Коммиты успешно объединены: 
+Pull requests for 	Запросы на слияние для 
+Pull requests in 	Запросы на слияние в 
+Pull requests targeting 	Запросы на слияние в ветку 
+Reviews:	Отзывы:
+Comments:	Комментарии:
+Co-Authors 	Соавторы 
+Rebasing 	Перебазирование 
+Rebase 	Перебазировать 
+Merge 	Слияние 
+Merge into 	Слить в 
+Squash 	Объединить коммиты 
+Squash of 	Объединение коммитов 
+Cherry-pick 	Перенести коммит 
+Cherry-picking from 	Перенос коммитов из 
+Cloning 	Клонирование 
+Creating the fork manually on GitHub	Создание форка вручную на GitHub
+creating the fork manually on GitHub	создание форка вручную на GitHub
+is already up to date with 	уже обновлён относительно 
+We will help you contribute to the	Мы поможем вам внести изменения в
+A force push will rewrite history on	Принудительная отправка (force push) перепишет историю в
+Act on behalf of the secret's owner	Действовать от имени владельца секрета
+Add a custom provider to use your own API keys with OpenAI-compatible endpoints, Azure, Anthropic, or local providers like Ollama.	Добавьте пользовательского провайдера, чтобы использовать собственные ключи API с OpenAI-совместимыми сервисами, Azure, Anthropic или локальными моделями, например Ollama.
+Adjust the filters to see all 	Измените фильтры, чтобы увидеть все 
+Already installed it? Let us know where in	Уже установили? Укажите расположение в
+Always available in the toolbar for local repositories or	Всегда доступно на панели инструментов для локальных репозиториев или
+Always available in the toolbar or	Всегда доступно на панели инструментов или
+Always available in the toolbar when there are local commits waiting to be pushed or 	Доступно на панели инструментов, если есть локальные коммиты для отправки или 
+Always available in the toolbar when there are remote changes or	Доступно на панели инструментов, если есть удалённые изменения или
+and collaborate with others.	и работайте вместе с другими участниками.
+and get going on your next project?	и начать свой следующий проект?
+appears to be owned by another user on your machine. Adding untrusted repositories may automatically execute files in the repository.	принадлежит другому пользователю этого компьютера. Добавление недоверенных репозиториев может запустить файлы из них.
+Are you sure you want to 	Вы уверены, что хотите 
+Are you sure you want to abort this 	Вы уверены, что хотите прервать 
+Autocompletion of user and issues will be based on	Автодополнение пользователей и задач будет основано на
+but are not the values it expects. Would you like to update them now?	но не соответствуют ожидаемым значениям. Обновить их сейчас?
+By creating an account, you agree to the	Создавая учётную запись, вы соглашаетесь с
+Cache hook environment variables to improve performance. Disable if your hooks rely on frequently changing environment variables.	Кэшировать переменные окружения Git-хуков для ускорения работы. Отключите, если хуки используют часто меняющиеся переменные.
+Cherry-pick undone. Successfully removed the 	Перенос коммитов отменён. Успешно удалено: 
+Choose a branch to merge into 	Выберите ветку для слияния с 
+Commit message rule failures	Ошибки проверки сообщения коммита
+Couldn't determine the last time an update check was performed. You may be running an old version. Please try manually checking for updates and contact GitHub Support if the problem persists	Не удалось определить время последней проверки обновлений. Возможно, используется старая версия. Проверьте обновления вручную. Если проблема сохраняется, обратитесь в поддержку GitHub.
+Couldn't find the GitHub Copilot App on your machine. Experience agent-driven development built natively on GitHub by	Приложение GitHub Copilot не найдено на компьютере. Попробуйте разработку с ИИ-агентом непосредственно в GitHub, для этого
+Depending on your repository's hosting service, you might need to use a Personal Access Token (PAT) as your password. Learn more about creating a PAT in our	В зависимости от сервиса размещения репозитория вместо пароля может потребоваться личный токен доступа (PAT). Подробнее о создании PAT — в
+Determining which checks can be re-run.	Определение проверок, которые можно запустить повторно.
+Do you want to switch to that Pull Request now and start fixing	Перейти к этому запросу на слияние и начать исправлять
+Don’t worry, you can still create the pull request.	Не беспокойтесь, запрос на слияние всё ещё можно создать.
+downloading GitHub Copilot	загрузка GitHub Copilot
+Experience agent-driven development built natively on GitHub.	Оцените разработку с ИИ-агентом прямо в GitHub.
+File → Options → Copilot	Файл → Настройки → Copilot
+Files that exceed the limit	Файлы, превышающие лимит
+for more information on managing large files on GitHub	для получения сведений о работе с большими файлами на GitHub
+for private repositories outside of GitHub.com. This feature is experimental and subject to change.	для приватных репозиториев вне GitHub.com. Функция экспериментальная и может измениться.
+For this repository I wish to	Для этого репозитория я хочу
+Git requesting credentials to access	Git запрашивает учётные данные для доступа к
+GitHub's default branch name is 	Название ветки по умолчанию на GitHub — 
+has been merged, you can also go to GitHub to delete the remote branch.	была слита. Вы также можете удалить удалённую ветку на GitHub.
+Hidden changes will be committed. 	Скрытые изменения будут включены в коммит. 
+I'll be using this fork…	Я буду использовать этот форк…
+If this is a GitHub Enterprise trial.	Если это пробная версия GitHub Enterprise.
+If you choose to commit, you’ll be committing the following conflicted files into your repository:	При создании коммита в него войдут следующие файлы с конфликтами:
+If you commit these files, you will no longer be able to push this repository to GitHub.com.	Если добавить эти файлы в коммит, отправить репозиторий на GitHub.com больше не получится.
+If your GitHub Enterprise instance is run on an unusual top-level domain.	Если ваш экземпляр GitHub Enterprise использует нестандартный домен верхнего уровня.
+In some cases, this may be expected. For example:	В некоторых случаях это ожидаемо. Например:
+Invalid characters have been replaced by hyphens.	Недопустимые символы заменены дефисами.
+Issues will be created in 	Задачи будут созданы в 
+It doesn’t look like you have a text editor installed. We can recommend	Похоже, у вас не установлен текстовый редактор. Мы рекомендуем
+It looks like you don’t have write access to 	Похоже, у вас нет прав на запись в 
+OpenAI / OpenAI-compatible	OpenAI / Совместимый с OpenAI
+Overwrite any changes on 	Перезаписать все изменения в 
+Publish your repository to GitHub. Need help?	Опубликуйте репозиторий на GitHub. Нужна помощь?
+Resolve conflicts and commit to merge into	Разрешите конфликты и создайте коммит для слияния в
+Resolve conflicts to continue 	Разрешите конфликты, чтобы продолжить 
+Resolve conflicts to continue cherry-picking onto	Разрешите конфликты для продолжения переноса коммитов в
+Resolve conflicts to continue rebasing	Разрешите конфликты для продолжения перебазирования
+Restricted access to move the file(s).	Недостаточно прав для перемещения файлов.
+Right click on multiple commits to see options.	Нажмите правой кнопкой мыши на нескольких коммитах, чтобы увидеть доступные действия.
+Tailor how Copilot behaves by using	Настройте поведение Copilot с помощью
+Tell Desktop which models this provider offers. Each one will appear in the model picker for Copilot features.	Укажите, какие модели поддерживает этот провайдер. Каждая из них появится в списке моделей Copilot.
+Thanks so much for all your hard work on GitHub Desktop	Огромное спасибо за ваш вклад в развитие GitHub Desktop
+The application is currently running in development and will not receive any updates.	Сейчас запущена версия для разработки, которая не получает обновления.
+The authenticity of host '	Не удаётся подтвердить подлинность узла «
+The branch also exists on the remote, do you wish to delete it there as well?	Эта ветка существует и в удалённом репозитории. Удалить её также там?
+The command line tool has been installed at	Инструмент командной строки установлен по пути
+The Desktop team would like to thank you for your contributions.	Команда GitHub Desktop благодарит вас за вклад в развитие проекта.
+The folder for the worktree 	Папка рабочего дерева 
+The friendly name shown in the Copilot model picker.	Отображаемое название в списке моделей Copilot.
+the password for the user 	пароль пользователя 
+The push was rejected by the server for containing a modification to the workflow file 	Сервер отклонил отправку из-за изменений в файле рабочего процесса 
+The repository will be created at 	Репозиторий будет создан в 
+The tag name cannot be longer than 	Длина имени тега не может превышать 
+These changes will be unrecoverable from the 	Эти изменения нельзя будет восстановить из 
+These icons indicate which repositories have local or remote changes, and require the periodic fetching of repositories that are not currently selected.	Эти значки показывают наличие локальных и удалённых изменений в репозиториях. Для невыбранных репозиториев требуется периодическое получение обновлений.
+These users weren't found and won't be added as co-authors of this commit. Are you sure you want to commit?	Эти пользователи не найдены и не будут добавлены как соавторы коммита. Всё равно создать коммит?
+This branch is tracking 	Эта ветка отслеживает 
+This directory contains a 	Эта папка содержит 
+This submodule changed its commit from	Этот подмодуль изменил коммит с
+This will create a repository on your local machine, and push it to your account 	Будет создан локальный репозиторий, который затем отправится в вашу учётную запись 
+This will fast-forward 	Будут применены изменения без создания коммита слияния для 
+Turning this off will not stop the periodic fetching of your currently selected repository, but may improve overall app performance for users with many repositories.	Отключение не остановит регулярную проверку выбранного репозитория, но может ускорить работу приложения, если у вас много репозиториев.
+Would you like to automatically start with Copilot whenever conflicts are detected? You can change this anytime in	Автоматически запускать Copilot при обнаружении конфликтов? Это можно изменить в
+Would you like to forcefully delete the worktree 	Принудительно удалить рабочее дерево 
+Would you like to open a browser to grant GitHub Desktop permission to access the repository?	Открыть браузер, чтобы предоставить GitHub Desktop доступ к репозиторию?
+Would you like to open a browser to grant GitHub Desktop permission to update workflow files?	Открыть браузер, чтобы разрешить GitHub Desktop изменять файлы рабочих процессов?
+Would you like to publish 	Опубликовать 
+Would you like to push your changes to	Отправить изменения в
+Would you like to retry cloning 	Повторить клонирование 
+Would you like to update the remote to use the expected URL?	Обновить адрес удалённого репозитория на ожидаемый URL?
+You can also set an email local to this repository from the	Адрес электронной почты только для этого репозитория можно указать в
+You can try to show it anyway, but performance may be negatively impacted.	Можно попробовать показать его, но это может замедлить работу программы.
+You don't have write access to 	У вас нет доступа на запись в 
+You have a filter applied. There are	Применён фильтр. Всего найдено
+Your branch is up to date with the compared branch (	Ваша ветка синхронизирована со сравниваемой веткой (
+Your changes will modify your 	Ваши изменения затронут 
