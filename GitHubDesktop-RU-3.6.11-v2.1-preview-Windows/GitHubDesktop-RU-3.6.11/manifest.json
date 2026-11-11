@@ -1,0 +1,63 @@
+{
+  "patch": "GitHubDesktop-RU",
+  "patchVersion": "2.1.0-preview",
+  "targetVersion": "3.6.11",
+  "architecture": "x64",
+  "buildDate": "2026-11-11",
+  "method": "UI string literal replacements; AST-verified positions from user-supplied source bundles",
+  "files": {
+    "main.js": {
+      "sourceSha256": "ebf14d7d844268f8be76dbb17deb6976caee8f3673c75cc62acf25693b59e6f2",
+      "previousSha256": "4720c3894c2afb0b8c0146251e088d06c380cfbff291cf86b32a295cd8f89811",
+      "patchedSha256": "4720c3894c2afb0b8c0146251e088d06c380cfbff291cf86b32a295cd8f89811",
+      "sourceBytes": 235544,
+      "patchedBytes": 236754,
+      "replacements": 62,
+      "newOrUpdatedSinceV1": 0,
+      "categories": {
+        "prop:label": 60,
+        "prop:title": 2
+      },
+      "deltaSha256": "02bb1a664b255a18136169f540214ef512c9a372cae3afa9400e2108dbda66f1"
+    },
+    "renderer.js": {
+      "sourceSha256": "df8ac40d0eca0eba878d4572929516d5b050f520391bff7b2e5aa10c238367e7",
+      "previousSha256": "ac2c2073491880bd21b2a1d2be9d88d01c85b9dd1b3e63aa7989ebcc73fd9898",
+      "patchedSha256": "4be4434ffe49237e9d6e0bfb954ae03b8d4d00a780ce90c9d4adf77c8d0ecda7",
+      "sourceBytes": 3314350,
+      "patchedBytes": 3343098,
+      "replacements": 1054,
+      "newOrUpdatedSinceV1": 308,
+      "categories": {
+        "prop:title": 118,
+        "prop:tooltip": 5,
+        "prop:label": 177,
+        "prop:description": 39,
+        "prop:aria-label": 12,
+        "element-child": 562,
+        "prop:okButtonText": 69,
+        "prop:ariaLabel": 18,
+        "prop:placeholder": 13,
+        "prop:cancelButtonText": 25,
+        "prop:buttonText": 7,
+        "prop:placeholderText": 1,
+        "prop:message": 3,
+        "button-group": 5
+      },
+      "deltaSha256": "4670c58dc361fe2b699fc93eeed482b5d7ff6a3fd12391d1594714a3f04a2ccc"
+    }
+  },
+  "summary": {
+    "main.js": {
+      "uiLiterals": 62,
+      "distinctStrings": 62,
+      "newInstancesSinceV1": 0
+    },
+    "renderer.js": {
+      "uiLiterals": 1054,
+      "distinctStrings": 869,
+      "newInstancesSinceV1": 308
+    }
+  },
+  "distribution": "small original-file byte deltas; compiled GitHub Desktop bundles not included"
+}
